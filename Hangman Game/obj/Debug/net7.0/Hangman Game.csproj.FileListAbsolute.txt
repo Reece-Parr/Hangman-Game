@@ -1,0 +1,15 @@
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\bin\Debug\net7.0\Hangman Game.exe
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\bin\Debug\net7.0\Hangman Game.deps.json
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\bin\Debug\net7.0\Hangman Game.runtimeconfig.json
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\bin\Debug\net7.0\Hangman Game.dll
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\bin\Debug\net7.0\Hangman Game.pdb
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\obj\Debug\net7.0\Hangman Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\obj\Debug\net7.0\Hangman Game.AssemblyInfoInputs.cache
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\obj\Debug\net7.0\Hangman Game.AssemblyInfo.cs
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\obj\Debug\net7.0\Hangman Game.csproj.CoreCompileInputs.cache
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\obj\Debug\net7.0\Hangman Game.dll
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\obj\Debug\net7.0\refint\Hangman Game.dll
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\obj\Debug\net7.0\Hangman Game.pdb
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\obj\Debug\net7.0\Hangman Game.genruntimeconfig.cache
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\obj\Debug\net7.0\ref\Hangman Game.dll
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 2\Hangman Game\bin\Debug\net7.0\Files\word.txt
